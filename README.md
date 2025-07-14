@@ -67,5 +67,6 @@ email.password = "your_app_password"
 ```
 
 🧪 Run Locally
-pip install -r requirements.txt
-streamlit run app.py
+
+-pip install -r requirements.txt
+-streamlit run app.py
