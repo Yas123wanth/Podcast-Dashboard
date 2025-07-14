@@ -1,0 +1,14 @@
+streamlit
+boto3
+pandas
+numpy
+openai
+requests
+Pillow
+scikit-learn
+matplotlib
+seaborn
+nltk
+transformers
+torch
+librosa
